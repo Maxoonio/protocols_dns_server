@@ -63,3 +63,5 @@ if __name__ == '__main__':
     print("Программа завершена.")
     print("=" * 30)
     time.sleep(0.5)
+
+

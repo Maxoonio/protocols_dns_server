@@ -184,3 +184,6 @@ class DNSServer:
         except Exception as e:
             print(f"Ошибка при перенаправлении запроса на {self.upstream_dns}: {e}")
             return None
+
+
+

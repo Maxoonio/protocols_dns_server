@@ -120,3 +120,5 @@ def get_info_from_cache(cache_entry, query_type):
     elif query_type == dnslib.QTYPE.PTR:
         return cache_entry.ptr
     return None
+
+

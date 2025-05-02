@@ -71,3 +71,5 @@ def load_cache():
     if not cache:
         print("Кэш стал пустым после очистки.")
     return cache
+
+
